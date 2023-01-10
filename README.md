@@ -56,9 +56,3 @@ joicegrigolato.currently('Javascript', 'A garota que bebeu a lua')
   <img align="center" alt="Javascript" height="30" width="30" target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="Typescript" height="30" width="30" target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/> 
 </div>
-
-##
-
-<div align="center">
-![Snake animation](https://github.com/marigrigolato/marigrigolato/blob/output/github-contribution-grid-snake.svg)
-</div>
