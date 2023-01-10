@@ -6,7 +6,7 @@
   <img src="https://github.com/marigrigolato/marigrigolato/blob/main/me.gif"/>
 </div>
 <p align="center">
-Tenho 27 anos, moro em Araraquara/SP e sou entusiasta de tecnologia. Uma iniciante no universo da programação buscando à primeira oportunidade no mercado de trabalho.     
+Tenho 27 anos, moro em Araraquara/SP e sou entusiasta de tecnologia. Uma iniciante no universo da programação buscando a primeira oportunidade no mercado de trabalho.     
 </p>
 <p align="center">
 Quando não estiver codificando, encontre-me jogando videogames ou assistindo séries.
